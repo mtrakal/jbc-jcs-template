@@ -1,0 +1,3 @@
+# Shared preferences storage
+
+Store simple data to encrypted shared preferences...
