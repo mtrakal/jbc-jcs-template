@@ -1,4 +1,3 @@
-# Dependency injection
+# Extensions
 
-Configuration for DI.
-Injection of core module (network, api, firebase, analytics, etc...).
+Kotlin extensions widely used in whole app.
