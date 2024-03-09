@@ -18,3 +18,5 @@
 - core funkcionalita roztříštěná mezi VM a Repository (chybí jednotné místo business logiky)
 - databinding
 - namixované jodaTime, java time (JSR-310) i kotlin datetime :(
+
+![HG modules](graphviz_hg_dot_lr.svg)
